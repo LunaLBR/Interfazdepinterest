@@ -1,9 +1,21 @@
-# Interfazdepinterest
-clonación de pinterest
-_cursiva_
-este proyecto es un clon d ela interfaz de usuario de pinterest creado con html5 y css3 
-se enfoca en replicar la apareciencia visual de pinterest, ofreciendo una experencia de navegación similar con un diseño responsive y funcionalidades básicas.
+# Clon de Pinterest con HTML y CSS
+Este proyecto es un clon de la interfa de usuario de Pinterest, creado puramente con HTML y CSS. Se enfoca en replicar la apariencia visual de Pinterest, ofreciendo una experiencia de navegación similar con un diseño responsive y funcionalidades básicas.
+### Características
++ **Diseño Responsive:** Adaptable a diferentes tamaños de pantalla para una experiencia de usuario óptima en dispositivos móviles y de escritorio.
++ **Interfaz de Usuario Intuitiva:** Inspirada en [Pinterest](https://www.pinterest.es/), con una navegación fácil y accesible.
++ **Interacciones Dinámicas:** Efectos visuales para elementos interactivos como botones y enlaces.
++ **Iconografía y Estilos Modernos:** Uso de la biblioteca de íconos de Material Design y estilos CSS modernos para una apariencia cool.
 
-##caracteristicas
-* diseño responsive: Adaptable a diferentes tamaños de pantalla para una experiencia de usuario optima en dispositivos moviles y de escritorio.
-* Interfaz de usuario intuitiva: Inspirada en pinterest con una navegación facil y accesible
+### Tecnologías Utilizadas
++ **HTML5:** Para la estructura básica del sitio.
++ **CSS3:** Para el diseño y estilo, incluyendo _flexbox_ para un diseño responsivo y efectos de _hover_.
++ **Google Fonts:** Para fuentes personalizadas.
+
+### Vista Previa del Proyecto
+![Demo](/imagenes/pinterest_screen.png)
+
+### Licencia
+Distribuido bajo la Licencia MIT. Consulta `LICENSE` para obtener más información.
+
+### Contacto
+Laura Luna: [Mi LinkedIn](enlace)
